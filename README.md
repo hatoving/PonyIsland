@@ -50,6 +50,7 @@ Should there ever be an instance where you need to type in something, press ![tr
 - [BonQ](https://www.reddit.com/user/Dexxtrip) for testing the game out
 - [M Ibrahim](https://github.com/Ibrahim778) for helping me implement the Common Dialog API in Unity (that was a nightmare to do...)
 - [gl33ntwine](https://github.com/v-atamanenko) for the PS buttons for the repo
+- and [Daniel Mullins Games](https://store.steampowered.com/publisher/danielmullinsgames) of course for making Pony Island!
 
 [cross]: https://raw.githubusercontent.com/v-atamanenko/sdl2sand/master/img/cross.svg "Cross"
 [circl]: https://raw.githubusercontent.com/v-atamanenko/sdl2sand/master/img/circle.svg "Circle"
