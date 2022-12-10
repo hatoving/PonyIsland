@@ -2,7 +2,7 @@
 ## As taken from the Steam store page...
 Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. The devil detests having his puzzles solved and poor programming exposed; you will need to think outside the box to proceed and you will be insulted when you do.
 
-This repository contains a stripped VPK file for the game and a series of patches, that when combined will produce a fully playable version of Pony Island on the PS Vita. Please note that you will need to obtain game files for yourself to make this work.
+This repository contains a stripped VPK file for the game and a series of patches, that when combined will produce a fully playable version of Pony Island on the PS Vita. Please note that you will need to obtain the game files for yourself to make this work.
 
 # How do I set this up?
 ## Steam
