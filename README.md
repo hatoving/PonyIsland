@@ -48,7 +48,7 @@ Congrats, you now have the patched files. But we're not done just yet.
 |            ![squar]            | Minigame (Shoot)    |
 |            ![start]            | Pause Menu          |
 
-Should there ever be an instance where you need to type in something, press ![trian] to bring up the on-screen keyboard.
+Should there ever be an instance where you need to type in something, press ![trian] to bring up the on-screen keyboard, and then ![cross] to submit your answer.
 
 ## Credits
 - [BonQ](https://www.reddit.com/user/Dexxtrip) for testing the game out
