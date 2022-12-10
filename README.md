@@ -1,3 +1,7 @@
+<h1 align="center">
+<img align="center" src="https://user-images.githubusercontent.com/64536760/206871090-fab3160b-d4de-485d-bbd8-e2529b3b2037.png" width="50%"><br>
+</h1>
+
 # What?
 ## As taken from the Steam store page...
 Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in a malevolent and malfunctioning arcade machine devised by the devil himself. The devil detests having his puzzles solved and poor programming exposed; you will need to think outside the box to proceed and you will be insulted when you do.
