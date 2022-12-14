@@ -39,6 +39,8 @@ Congrats, you now have the patched files. But we're not done just yet.
 - Drag 'n drop your VPK file to your desired location on your SD Card
 - Install the VPK file
 
+At last, be sure to create a folder called ``PonyIsland`` in ``ux0:data/``. This folder is essential to create, otherwise if you don't, the game will freeze on certain moments.
+
 # Controls
 
 |             Button             | Action              |
