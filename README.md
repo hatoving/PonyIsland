@@ -9,9 +9,6 @@ Pony Island is a suspense puzzle game in disguise. You are in limbo, trapped in 
 This repository contains a stripped VPK file for the game and a series of patches, that when combined will produce a fully playable version of Pony Island on the PS Vita. Please note that you will need to obtain the game files for yourself to make this work.
 
 # How do I set this up?
-## Steam
-If you have the latest Steam files for the game, then continue on with this section.
-
 Note that the files you need are in the depot with it's ID being ``405641``.
 You can check what depot you currently possess by taking a look at the file in ``(STEAM INSTALL HERE)/steamapps/appmanifest_405640.acf``.
 The depot you have installed should be under ``"InstalledDepots``.
